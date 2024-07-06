@@ -8,4 +8,9 @@ For efficiency purposes, only a subset of this dataset was used for evaluation, 
 
 The project also tackles the Regression Task on estimating the Rating a user would set for a certain movie.
 
-All information on the approaches used, experiments and metrics can be found in the file.
+All information on the approaches used, experiments and metrics can be found in the Probabilistic Programming.pdf file.
+
+Codes for the two approaches can be found at:
+
++ Binary_HPF - for the classification task
++ Regression_HPF - for the regression task
